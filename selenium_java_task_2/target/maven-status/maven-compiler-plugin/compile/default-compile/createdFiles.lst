@@ -1,0 +1,6 @@
+pages\BasePage.class
+pages\InsurationPage.class
+pages\SendAppPage.class
+pages\MinInsurationPage.class
+TestProperties.class
+pages\MainPage.class
